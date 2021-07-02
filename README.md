@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dr-Tiks
-- 👀 I’m interested in 
+- 👀 I’m interested in Microcontroller Programming
 - 🌱 I’m currently learning the C/C++ Programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me by dspacedtime@gmail.com ...
